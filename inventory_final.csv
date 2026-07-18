@@ -1,0 +1,105 @@
+Product_ID,Product_Name,Category,Cost_Price,Selling_Price,Current_Stock,Avg_Daily_Sales,Lead_Time_Days,Last_Restock_Date,Reorder_Point,Days_of_Stock_Remaining,Stock_Status,Revenue_Potential,Cumulative_Revenue,Cumulative_Pct,ABC_Class
+P040,Daawat Rozana Basmati Rice 5kg,Food Staples & Pantry,340,425,80,14,4,11/4/2024,56,5.714285714,Low,34000,34000,5.173707219908425,A
+P039,Aashirvaad Shudh Chakki Atta 5kg,Food Staples & Pantry,210,260,120,24,3,11/6/2024,72,5.0,Healthy,31200,65200,9.92134443347145,A
+P062,Taj Mahal Tea Leaves 500g,Snacks & Beverages,310,380,50,8,3,11/5/2024,24,6.25,Healthy,19000,84200,12.812533762243806,A
+P021,Amul Pasteurised Butter 500g,Meat Dairy & Refrigerated,235,275,65,18,2,11/9/2024,36,3.611111111,Healthy,17875,102075,15.532534249180957,A
+P095,Head & Shoulders Anti-Dandruff 650ml,Household & Personal Care,450,575,25,3,4,11/2/2024,12,8.333333333,Healthy,14375,116450,17.719947228186356,A
+P055,Maggi 2-Min Masala Noodles 420g,Snacks & Beverages,82,98,145,35,2,11/9/2024,70,4.142857143,Healthy,14210,130660,19.88225251038926,A
+P092,Dettol Antiseptic Liquid 500ml,Household & Personal Care,192,230,60,9,3,11/6/2024,27,6.666666667,Healthy,13800,144460,21.982168970234444,A
+P093,Harpic Power Blue Toilet Cleaner 1L,Household & Personal Care,160,195,70,11,2,11/8/2024,22,6.363636364,Healthy,13650,158110,24.05926025116827,A
+P091,Colgate MaxFresh Toothpaste 300g,Household & Personal Care,145,180,75,12,3,11/7/2024,36,6.25,Healthy,13500,171610,26.11352635319073,A
+P038,Fortune Soya Health Oil 1L,Food Staples & Pantry,115,140,95,18,3,11/5/2024,54,5.277777778,Healthy,13300,184910,28.13735888333138,A
+P094,Lizol Floor Cleaner Citrus 1L,Household & Personal Care,165,200,65,10,2,11/7/2024,20,6.5,Healthy,13000,197910,30.11554105564931,A
+P061,Nescafe Classic Coffee 100g,Snacks & Beverages,270,325,40,6,4,11/4/2024,24,6.666666667,Healthy,13000,210910,32.09372322796724,A
+P088,Surf Excel Easy Wash Detergent 1kg,Household & Personal Care,125,150,85,14,3,11/6/2024,42,6.071428571,Healthy,12750,223660,34.03386343543289,A
+P090,Dettol Liquid Handwash Refill 1.5L,Household & Personal Care,210,250,50,8,3,11/5/2024,24,6.25,Healthy,12500,236160,35.93596167804628,A
+P096,Dove Cream Beauty Bathing Bar 3x125g,Household & Personal Care,215,260,48,7,3,11/5/2024,21,6.857142857,Healthy,12480,248640,37.8350165634715,A
+P043,Tata Sampann Toor Dal 1kg,Food Staples & Pantry,145,175,70,12,3,11/5/2024,36,5.833333333,Healthy,12250,260890,39.69907284123262,A
+P102,Pampers Baby Dry Diapers L 30-Pack,Household & Personal Care,460,599,20,2,4,11/1/2024,8,10.0,Healthy,11980,272870,41.5220437969533,A
+P089,Vim Dishwash Gel Lemon 500ml,Household & Personal Care,102,120,95,18,2,11/8/2024,36,5.277777778,Healthy,11400,284270,43.25675739421671,A
+P103,Pedigree Dry Dog Food Chicken 3kg,Household & Personal Care,610,750,15,2,5,10/29/2024,10,7.5,Healthy,11250,295520,44.96864581256876,A
+P073,McCain French Fries 1.25kg,Frozen Foods,240,300,35,9,3,11/8/2024,27,3.888888889,Low,10500,306020,46.56640833636401,A
+P065,Parle-G Gluco Biscuits 800g,Snacks & Beverages,64,80,130,25,2,11/9/2024,50,5.2,Healthy,10400,316420,48.14895407421835,A
+P046,Saffola Total Edible Oil 1L,Food Staples & Pantry,165,200,50,7,3,11/6/2024,21,7.142857143,Healthy,10000,326420,49.67063266830907,A
+P097,Whisper Choice Ultra Wings 20-Pack,Household & Personal Care,145,180,55,9,3,11/4/2024,27,6.111111111,Healthy,9900,336320,51.177094476458876,A
+P057,Haldiram's Alu Bhujia 400g,Snacks & Beverages,80,100,90,15,2,11/8/2024,30,6.0,Healthy,9000,345320,52.546605211140516,A
+P009,Fresh Shimla Apples 1kg,Fresh Produce & Bakery,130,160,55,7,3,11/6/2024,21,7.857142857,Healthy,8800,354120,53.885682373940334,A
+P007,Fresh Red Onions 1kg,Fresh Produce & Bakery,45,55,150,28,2,11/7/2024,56,5.357142857,Healthy,8250,362370,55.141067214065174,A
+P087,McCain Smiles 1.25kg,Frozen Foods,245,310,26,6,3,11/6/2024,18,4.333333333,Low,8060,370430,56.367540160902294,A
+P058,Cadbury Dairy Milk Silk 150g,Snacks & Beverages,85,105,75,12,3,11/6/2024,36,6.25,Healthy,7875,378305,57.56586205374873,A
+P049,Kissan Tomato Ketchup 950g,Food Staples & Pantry,110,140,55,9,3,11/5/2024,27,6.111111111,Healthy,7700,386005,58.73755457119858,A
+P059,Coca-Cola Aerated Drink 1.25L,Snacks & Beverages,55,70,110,22,2,11/9/2024,44,5.0,Healthy,7700,393705,59.909247088648435,A
+P026,Eggs Premium Box 12 Units,Meat Dairy & Refrigerated,70,90,85,22,1,11/9/2024,22,3.863636364,Healthy,7650,401355,61.07333121312782,A
+P060,Real Fruit Power Juice Juice Orange 1L,Snacks & Beverages,90,115,65,10,3,11/7/2024,30,6.5,Healthy,7475,408830,62.210785962210636,A
+P042,Madhur Pure Granulated Sugar 1kg,Food Staples & Pantry,44,55,135,26,2,11/8/2024,52,5.192307692,Healthy,7425,416255,63.34063231832299,A
+P045,MDH Kitchen King Masala 100g,Food Staples & Pantry,68,82,90,10,3,11/5/2024,30,9.0,Healthy,7380,423635,64.46363112076193,A
+P075,Safal Frozen Green Peas 1kg,Frozen Foods,110,140,50,12,2,11/8/2024,24,4.166666667,Healthy,7000,430635,65.52880613662543,A
+P053,Baggry's Fruit & Nut Muesli 400g,Food Staples & Pantry,240,310,22,2,4,11/1/2024,8,11.0,Healthy,6820,437455,66.5665909377953,A
+P072,Kwality Wall's Vanilla Magic 1L,Frozen Foods,135,170,40,11,2,11/9/2024,22,3.636363636,Healthy,6800,444255,67.60133238177698,A
+P022,Mother Dairy Toned Milk 1L,Meat Dairy & Refrigerated,48,56,120,45,1,11/10/2024,45,2.666666667,Healthy,6720,450975,68.62390039700594,A
+P025,Amul Cheese Slices 200g,Meat Dairy & Refrigerated,115,140,48,9,2,11/8/2024,18,5.333333333,Healthy,6720,457695,69.64646841223491,A
+P052,Kellogg's Corn Flakes 500g,Food Staples & Pantry,150,185,35,6,4,11/3/2024,24,5.833333333,Low,6475,464170,70.63175530190864,B
+P074,ITC Master Chef Chicken Nuggets 500g,Frozen Foods,215,275,22,5,3,11/7/2024,15,4.4,Low,6050,470220,71.55237085133352,B
+P098,Gillette Guard Razor Blades 10-Pack,Household & Personal Care,125,150,40,4,4,11/2/2024,16,10.0,Healthy,6000,476220,72.46537800778795,B
+P101,Selpak Kitchen Paper Towel 2-Rolls,Household & Personal Care,110,140,42,5,4,11/3/2024,20,8.4,Healthy,5880,482100,73.36012502111329,B
+P067,Red Bull Energy Drink 250ml,Snacks & Beverages,105,125,45,7,3,11/6/2024,21,6.428571429,Healthy,5625,487725,74.21606923028932,B
+P099,Godrej Aer Spray Petal Crush 240ml,Household & Personal Care,130,160,35,3,4,11/3/2024,12,11.66666667,Healthy,5600,493325,75.06820924298012,B
+P068,Hershey's Chocolate Syrup 623g,Snacks & Beverages,180,220,25,3,4,11/2/2024,12,8.333333333,Healthy,5500,498825,75.90513246973,B
+P100,Scotch-Brite Scrub Pad 3-Pack,Household & Personal Care,40,50,110,15,2,11/9/2024,30,7.333333333,Healthy,5500,504325,76.74205569647991,B
+P036,Amul Cheese Block 200g,Meat Dairy & Refrigerated,104,125,42,7,2,11/8/2024,14,6.0,Healthy,5250,509575,77.54093695837753,B
+P048,Del Monte Penne Pasta 500g,Food Staples & Pantry,90,115,45,4,4,11/2/2024,16,11.25,Healthy,5175,514750,78.32840563081946,B
+P050,FunFoods Veg Mayonnaise 400g,Food Staples & Pantry,95,120,40,6,3,11/4/2024,18,6.666666667,Healthy,4800,519550,79.05881135598301,B
+P071,Tropicana 100% Apple Juice 1L,Snacks & Beverages,100,130,35,5,3,11/6/2024,15,7.0,Healthy,4550,524100,79.75117511629428,B
+P063,Bisleri Packaged Water 2L,Snacks & Beverages,22,30,150,40,1,11/10/2024,40,3.75,Healthy,4500,528600,80.4359304836351,B
+P044,Catch Turmeric Powder 200g,Food Staples & Pantry,42,52,85,8,3,11/6/2024,24,10.625,Healthy,4420,533020,81.1085124222232,B
+P064,Britannia Good Day Cashew 200g,Snacks & Beverages,32,40,105,18,2,11/8/2024,36,5.833333333,Healthy,4200,537220,81.7476174317413,B
+P084,Baskin Robbins Mississippi Mud 450ml,Frozen Foods,280,350,12,2,4,11/3/2024,8,6.0,Healthy,4200,541420,82.3867224412594,B
+P041,Tata Salt Iodized 1kg,Food Staples & Pantry,22,28,150,30,2,11/7/2024,60,5.0,Healthy,4200,545620,83.0258274507775,B
+P017,Fresh Alphonso Mangoes 1kg,Fresh Produce & Bakery,220,280,15,2,4,11/5/2024,8,7.5,Healthy,4200,549820,83.6649324602956,B
+P005,Fresh Local Potatoes 1kg,Fresh Produce & Bakery,22,30,140,25,2,11/8/2024,50,5.6,Healthy,4200,554020,84.3040374698137,B
+P030,Godrej Real Good Chicken Breast 500g,Meat Dairy & Refrigerated,180,225,18,5,2,11/9/2024,10,3.6,Healthy,4050,558070,84.92031730042045,B
+P010,Elite Rusk Premium 300g,Fresh Produce & Bakery,40,50,80,6,4,11/1/2024,24,13.33333333,Healthy,4000,562070,85.52898873805673,B
+P077,Sumeru Frozen Malabar Parotta 5-Pack,Frozen Foods,65,85,45,8,2,11/9/2024,16,5.625,Healthy,3825,565895,86.11103080029642,B
+P006,Fresh Hybrid Tomatoes 1kg,Fresh Produce & Bakery,32,40,95,22,1,11/10/2024,22,4.318181818,Healthy,3800,569695,86.68926866605089,B
+P023,Amul Fresh Paneer 200g,Meat Dairy & Refrigerated,72,90,40,14,1,11/10/2024,14,2.857142857,Healthy,3600,573295,87.23707295992355,B
+P081,Safal Frozen Sweet Corn 500g,Frozen Foods,70,90,38,6,2,11/7/2024,12,6.333333333,Healthy,3420,576715,87.75748703910257,B
+P079,McCain Veggie Fingers 400g,Frozen Foods,105,135,25,4,3,11/5/2024,12,6.25,Healthy,3375,580090,88.2710535646082,B
+P076,Amul Frozen Veg Burger Patty 360g,Frozen Foods,95,120,28,4,3,11/6/2024,12,7.0,Healthy,3360,583450,88.78233757222267,B
+P104,Whiskas Wet Cat Food Gravy 85g,Household & Personal Care,35,42,80,12,3,11/6/2024,36,6.666666667,Healthy,3360,586810,89.29362157983715,B
+P034,Nutilicious Cookie Dough Ice Cream 500ml,Meat Dairy & Refrigerated,190,240,14,2,3,11/5/2024,6,7.0,Healthy,3360,590170,89.80490558745163,B
+P082,Yummiez Chicken Popcorn 250g,Frozen Foods,125,160,20,3,3,11/5/2024,9,6.666666667,Healthy,3200,593370,90.29184273756066,C
+P078,Prasuma Veg Momos Original 240g,Frozen Foods,140,175,18,3,4,11/4/2024,12,6.0,Healthy,3150,596520,90.77117149469923,C
+P083,Keventer Frozen French Fries 400g,Frozen Foods,80,100,30,5,2,11/8/2024,10,6.0,Healthy,3000,599520,91.22767507292644,C
+P086,Sumeru Frozen Prawns 200g,Frozen Foods,220,280,10,1,5,11/1/2024,5,10.0,Healthy,2800,602320,91.65374507927184,C
+P035,Id Fresh Idli Dosa Batter 1kg,Meat Dairy & Refrigerated,55,70,38,12,1,11/10/2024,12,3.166666667,Healthy,2660,604980,92.05851158529997,C
+P032,Prasuma Pork Cocktail Sausages 250g,Meat Dairy & Refrigerated,210,265,10,1,4,11/4/2024,4,10.0,Healthy,2650,607630,92.46175641273402,C
+P051,Ching's Secret Soy Sauce 200g,Food Staples & Pantry,45,55,48,4,3,11/5/2024,12,12.0,Healthy,2640,610270,92.86347956157395,C
+P047,Bambino Roasted Vermicelli 400g,Food Staples & Pantry,32,40,65,5,2,11/7/2024,10,13.0,Healthy,2600,612870,93.25911599603755,C
+P031,Zorabian Chicken Salami 200g,Meat Dairy & Refrigerated,135,170,15,3,3,11/6/2024,9,5.0,Healthy,2550,615420,93.64714403753068,C
+P013,Fresh Garlic 250g,Fresh Produce & Bakery,40,50,50,4,2,11/8/2024,8,12.5,Healthy,2500,617920,94.02756368605336,C
+P008,Organic Bananas 1 Dozen,Fresh Produce & Bakery,48,60,40,15,1,11/9/2024,15,2.666666667,Healthy,2400,620320,94.39276654863514,C
+P037,Hershey's Chocolate Milkshake 180ml,Meat Dairy & Refrigerated,32,40,60,11,2,11/7/2024,22,5.454545455,Healthy,2400,622720,94.7579694112169,C
+P056,Lay's Classic Salted Chips 50g,Snacks & Beverages,16,20,120,28,2,11/10/2024,56,4.285714286,Healthy,2400,625120,95.12317227379867,C
+P028,Yakult Probiotic Drink 5-Pack,Meat Dairy & Refrigerated,70,85,28,6,3,11/5/2024,18,4.666666667,Healthy,2380,627500,95.48533177919226,C
+P066,Kurkure Masala Munch 90g,Snacks & Beverages,16,20,115,24,2,11/10/2024,48,4.791666667,Healthy,2300,629800,95.83531785583313,C
+P001,Amul Whole Wheat Bread 400g,Fresh Produce & Bakery,40,50,45,18,1,6/10/2024,18,2.5,Healthy,2250,632050,96.17769553950353,C
+P027,Amul Taaza Fresh Cream 250ml,Meat Dairy & Refrigerated,55,67,32,5,2,11/7/2024,10,6.4,Healthy,2144,634194,96.50394343007659,C
+P070,Oreo Vanilla Cream Biscuits 120g,Snacks & Beverages,25,30,70,11,2,11/7/2024,22,6.363636364,Healthy,2100,636294,96.82349593483563,C
+P085,Veg Bite Frozen Soya Chaap 500g,Frozen Foods,100,130,15,2,4,11/2/2024,8,7.5,Healthy,1950,638244,97.12022326068333,C
+P024,Mother Dairy Classic Dahi 400g,Meat Dairy & Refrigerated,28,35,55,16,1,11/10/2024,16,3.4375,Healthy,1925,640169,97.4131463900458,C
+P003,Britannia Fruit Cake 120g,Fresh Produce & Bakery,24,30,60,8,3,11/5/2024,24,7.5,Healthy,1800,641969,97.68704853698212,C
+P080,Amul Premium Kulfi 70ml,Frozen Foods,24,30,60,14,2,11/10/2024,28,4.285714286,Healthy,1800,643769,97.96095068391844,C
+P033,Amul Masti Spiced Buttermilk 200ml,Meat Dairy & Refrigerated,12,15,110,28,1,11/10/2024,28,3.928571429,Healthy,1650,645419,98.21202765194342,C
+P002,English Oven Brown Bread 400g,Fresh Produce & Bakery,38,45,35,12,1,11/9/2024,12,2.916666667,Healthy,1575,646994,98.45169203051269,C
+P012,Fresh Ginger 250g,Fresh Produce & Bakery,25,35,45,5,2,11/8/2024,10,9.0,Healthy,1575,648569,98.69135640908199,C
+P029,Epigamia Greek Yogurt Berry 90g,Meat Dairy & Refrigerated,48,60,24,4,2,11/8/2024,8,6.0,Healthy,1440,650009,98.91047812663105,C
+P020,Amul Brown Bread 400g,Fresh Produce & Bakery,42,50,28,10,1,11/9/2024,10,2.8,Healthy,1400,651409,99.12351312980375,C
+P069,Act II Popcorn Butter Pepper 40g,Snacks & Beverages,12,15,80,9,2,11/8/2024,18,8.888888889,Healthy,1200,652609,99.30611456109463,C
+P015,Fresh Cauliflower 1 unit,Fresh Produce & Bakery,28,35,32,9,2,11/9/2024,18,3.555555556,Healthy,1120,653729,99.47654256363279,C
+P054,Weikfield Baking Powder 100g,Food Staples & Pantry,28,35,30,2,5,10/28/2024,10,15.0,Healthy,1050,654779,99.63631881601232,C
+P014,Winkies Vanilla Cupcake 60g,Fresh Produce & Bakery,12,15,42,5,3,11/4/2024,15,8.4,Healthy,630,655409,99.73218456744003,C
+P004,Harvest Gold Burger Buns 2-Pack,Fresh Produce & Bakery,16,20,25,14,1,11/10/2024,14,1.785714286,Critical,500,655909,99.80826849714457,C
+P019,Fresh Spinach (Palak) Bunch,Fresh Produce & Bakery,12,18,22,13,1,11/10/2024,13,1.692307692,Critical,396,656305,99.86852696947057,C
+P011,Fresh Coriander Bunch,Fresh Produce & Bakery,6,10,30,16,1,11/10/2024,16,1.875,Critical,300,656605,99.91417732729329,C
+P016,Fresh Green Chillies 100g,Fresh Produce & Bakery,10,15,20,11,1,11/10/2024,11,1.818181818,Critical,300,656905,99.95982768511601,C
+P018,Kriti Paneer Puff 1 unit,Fresh Produce & Bakery,16,22,12,8,1,11/10/2024,8,1.5,Critical,264,657169,100.0,C
